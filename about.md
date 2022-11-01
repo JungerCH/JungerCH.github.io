@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About
+title: このサイトについて
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+Youtubeチャンネル [ゆんぼのおもちゃ箱](https://www.youtube.com/channel/UCIXIn5jsS5wFsvuAbNxjrgA) のブログ版。動画にするほどではないかなあ、というウマ娘ネタや競馬記事を扱います。  
+エルコンドルパサー、マヤノトップガン推し。現役ではサリオス、アスクビクターモア、ジェラルディーナが好き。
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+Youtube： [ゆんぼのおもちゃ箱](https://www.youtube.com/channel/UCIXIn5jsS5wFsvuAbNxjrgA)
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+twitter：[JungerCH](https://twitter.com/JungerCH)
