@@ -9,3 +9,10 @@ Youtubeチャンネル [ゆんぼのおもちゃ箱](https://www.youtube.com/cha
 
 - Youtube： [ゆんぼのおもちゃ箱](https://www.youtube.com/channel/UCIXIn5jsS5wFsvuAbNxjrgA)
 - twitter：[JungerCH](https://twitter.com/JungerCH)
+
+
+### サイトビルドでお世話になったツール
+
+- Host：[GitHub Pages](https://github.co.jp/)
+- Generator：[Jekyll](http://jekyllrb-ja.github.io/)
+- Theme：[Sleek](http://jekyllthemes.org/themes/sleek/)
