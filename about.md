@@ -11,7 +11,7 @@ Youtubeチャンネル [ゆんぼのおもちゃ箱](https://www.youtube.com/cha
 - twitter：[JungerCH](https://twitter.com/JungerCH)
 
 
-### サイトビルドでお世話になったツール
+## サイトビルドでお世話になったツール
 
 - Host：[GitHub Pages](https://github.co.jp/)
 - Generator：[Jekyll](http://jekyllrb-ja.github.io/)
