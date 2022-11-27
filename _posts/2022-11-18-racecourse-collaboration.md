@@ -34,6 +34,9 @@ featured-img: rc-20221119
 - 関連動画：[https://www.youtube.com/watch?v=7ELpJSlhZK4](https://www.youtube.com/watch?v=7ELpJSlhZK4)
 
 
+#### 中山競馬場：2022年12月3日、11日、17日、24日、25日、28日（高柳知葉、春川芽生、中村カンナ、Machico、田所あずさ、前田佳織里）
+- 関連リンク：[https://umamusume.jp/news/detail.php?id=1083](https://umamusume.jp/news/detail.php?id=1083)
+
 ## 関連イベント
 
 #### 佐賀競馬 移転開設50周年に新聞広告を出稿：2022年7月1日
